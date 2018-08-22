@@ -1,0 +1,18 @@
+.text-input {
+  display: flex;
+  flex-direction: row;
+  width: max-content;
+  margin: auto;
+}
+
+.hidden {
+  display: none;
+}
+
+.enaabled {
+  background-color: white;
+}
+
+.disabled {
+  background-color: #d3d3d34d;
+}
